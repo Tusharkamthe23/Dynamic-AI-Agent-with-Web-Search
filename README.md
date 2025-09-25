@@ -114,7 +114,12 @@ This project implements an AI agent using LangGraph, designed to interact with u
 ```
 
 ## 📸 Screenshots
- 
+ <img width="1905" height="856" alt="image" src="https://github.com/user-attachments/assets/2d49f8f0-597a-41fe-8ac5-02e7314d485f" />
+ <img width="1867" height="789" alt="image" src="https://github.com/user-attachments/assets/c22e630f-e895-4d27-a31e-163b10be5ee6" />
+ <img width="1903" height="789" alt="image" src="https://github.com/user-attachments/assets/a29a2936-aa31-49be-814c-9e87e8d51a56" />
+
+
+
  
 
  
