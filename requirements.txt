@@ -1,0 +1,15 @@
+
+langchain-groq 
+langchain-openai 
+langchain-community
+langchain-core
+langchain
+langgraph
+langgraph-checkpoint
+langgraph-prebuilt
+pydantic
+fastapi
+streamlit
+request
+dotenv
+pydantic
