@@ -12,7 +12,13 @@ ALLOWED_MODEL_NAMES = [
     "llama3-70b-8192",
     "mixtral-8x7b-32768",
     "llama-3.3-70b-versatile",
-    "gpt-4o-mini"
+    "gpt-4o-mini",
+    "llama-3.1-8b-instant",
+    "meta-llama/llama-guard-4-12b",
+    "openai/gpt-oss-120b",
+    "openai/gpt-oss-20b",
+    "groq/compound",
+    "groq/compound-mini"
 ]
 
 # FastAPI app
